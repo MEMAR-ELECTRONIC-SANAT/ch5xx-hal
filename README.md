@@ -1,5 +1,9 @@
 <div dir="rtl" align="right">
 
+<p align="center"><img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MES — Memar Electronic Sanat"></p>
+
+<p align="center"><img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # کتابخانه HAL برای میکروکنترلرهای WCH CH5xx | ch5xx-hal
 
 <p align="center"><img src="image/CH585.jpg" width="92%" alt="نمودار بلوکی میکروکنترلر CH585"></p>
@@ -131,7 +135,20 @@ cargo build --release --bins --no-default-features --features time-driver-tmr0
 
 ## تصاویر و دیاگرام‌های راهنما
 
-پوشه [image](image/) شامل تصاویر راهنمای CH585 و مقایسه محصول با CH584 است.
+پوشه [image](image/) شامل تصاویر مرجع CH585 و راهنمای مقایسه CH585/CH584 است. فایل‌های هویت بصری MES نیز در [Images/GitHub-Assets](Images/GitHub-Assets/) قرار دارند.
+
+<p align="center"><img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+| فایل | کاربرد |
+|---|---|
+| [MES-Hero-Banner.svg](Images/GitHub-Assets/MES-Hero-Banner.svg) | سربرگ اصلی README |
+| [MES-Divider.svg](Images/GitHub-Assets/MES-Divider.svg) | جداکننده بخش‌ها |
+| [MES-Section-Header.svg](Images/GitHub-Assets/MES-Section-Header.svg) | عنوان بصری بخش‌ها |
+| [MES-Project-Card.svg](Images/GitHub-Assets/MES-Project-Card.svg) | معرفی پروژه |
+| [MES-Status-Strip.svg](Images/GitHub-Assets/MES-Status-Strip.svg) | نمایش وضعیت و منابع |
+| [MES-Thank-You-Footer.svg](Images/GitHub-Assets/MES-Thank-You-Footer.svg) | تصویر پایانی README |
+
+<p align="center"><img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین
 
@@ -280,7 +297,20 @@ The upstream **ch5xx-hal** project is licensed under either the **Apache License
 
 ## Images and Reference Diagrams
 
-The [image](image/) directory contains CH585 reference images and the CH585/CH584 product selection guide.
+The [image](image/) directory contains CH585 reference images and the CH585/CH584 selection guide. MES visual identity assets are available in [Images/GitHub-Assets](Images/GitHub-Assets/).
+
+<p align="center"><img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+| File | Purpose |
+|---|---|
+| [MES-Hero-Banner.svg](Images/GitHub-Assets/MES-Hero-Banner.svg) | Main README banner |
+| [MES-Divider.svg](Images/GitHub-Assets/MES-Divider.svg) | Section divider |
+| [MES-Section-Header.svg](Images/GitHub-Assets/MES-Section-Header.svg) | Visual section heading |
+| [MES-Project-Card.svg](Images/GitHub-Assets/MES-Project-Card.svg) | Project showcase |
+| [MES-Status-Strip.svg](Images/GitHub-Assets/MES-Status-Strip.svg) | Status and resource strip |
+| [MES-Thank-You-Footer.svg](Images/GitHub-Assets/MES-Thank-You-Footer.svg) | README footer artwork |
+
+<p align="center"><img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## Credits and Documentation
 
