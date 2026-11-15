@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+
 </p>
 
 <div dir="rtl" align="right">
@@ -156,7 +156,7 @@ cargo build --release --bins --no-default-features --features time-driver-tmr0
 
 ## تهیه و تدوین
 
-**معمار الکترونیک صنعت**  
+**معمار الکترونیک صنعت**
 **MEMAR ELECTRONIC SANAT (MES)**
 
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
@@ -326,3 +326,5 @@ The [image](image/) directory contains CH585 reference images and the CH585/CH58
 - Instagram: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 
 [Explore more tutorials](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
