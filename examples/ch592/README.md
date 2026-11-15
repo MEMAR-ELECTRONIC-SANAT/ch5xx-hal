@@ -81,3 +81,5 @@ instances at compile time.
   by the same `cargo run` that flashes.
 - A `+b` target feature traps on this die; the crate builds with no extra
   target features.
+
+![MES Animated Logo](../../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
