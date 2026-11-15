@@ -61,3 +61,5 @@ cargo build --release --bins --no-default-features --features time-driver-tmr0
 | `usbhs_cdc_echo` | High-speed CDC ACM device on PB13/PB12 |
 | `usb_endpoints` | Vendor-class full-speed device that exercises endpoints 1 to 7: three echo pairs and a pattern source |
 | `usbhs_endpoints` | The same endpoint coverage on the high-speed block |
+
+![MES Animated Logo](../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
