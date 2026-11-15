@@ -20,3 +20,5 @@ cargo run --release --bin pwm_selftest
 | Binary | Description |
 | --- | --- |
 | `pwm_selftest` | PWM1-PWM5 register readback for fixed and 16-bit cycles; no wiring |
+
+![MES Animated Logo](../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
