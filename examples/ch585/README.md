@@ -288,7 +288,7 @@ Architecture-specific options are configured in `.cargo/config.toml`. Do not rem
 
 <div align="center">
 
-![MES Animated Logo](../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
+
 
 </div>
 
@@ -319,4 +319,6 @@ Your partner in designing and building reliable circuits.
 
 </div>
 
-<p align="center"><img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
+<p align="center">
+  <img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
+</p>
