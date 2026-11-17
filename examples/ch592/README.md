@@ -299,3 +299,4 @@ Your partner in designing and building reliable circuits.
 
 </div>
 
+<p align="center"><img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
