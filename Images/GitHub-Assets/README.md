@@ -59,9 +59,7 @@
 **نمایش لوگوی متحرک:**
 
 ~~~html
-<p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="320" alt="MES Animated Logo">
-</p>
+
 ~~~
 
 ## نکات فنی
@@ -146,9 +144,7 @@ The paths below assume that the README is located in the repository root. Adjust
 **Animated logo:**
 
 ~~~html
-<p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="320" alt="MES Animated Logo">
-</p>
+
 ~~~
 
 ## Technical Notes
@@ -171,4 +167,6 @@ The paths below assume that the README is located in the repository root. Adjust
 - Instagram: [Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 - GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
-<p align="center"><img src="MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
+<p align="center">
+  <img src="MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
+</p>
