@@ -43,4 +43,6 @@ Inspect the YAML file for exact triggers, tools, targets and commands. Run resul
 *Your partner in the design and development of reliable circuits.*  
 [Telegram](https://t.me/Memar_Electronic) · [Instagram](https://www.instagram.com/Memar.Electronic) · [GitHub](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
-<p align="center"><img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
+<p align="center">
+  <img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
+</p>
