@@ -15,6 +15,9 @@
 
 <p align="center"><img src="GitHub-Assets/MES-Divider.svg" width="100%" alt="جداکننده MES"></p>
 
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
+
 ## تهیه و تدوین
 **معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن  
