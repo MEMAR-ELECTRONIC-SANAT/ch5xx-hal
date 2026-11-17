@@ -202,6 +202,10 @@ cargo run --release --bin <example_name>
 
 ---
 
+<p align="center"><img src="../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # CH5xx HAL Examples
 
 <div dir="ltr" align="left">
@@ -411,6 +415,9 @@ This repository is a fork of [ch32-rs/ch5xx-hal](https://github.com/ch32-rs/ch5x
 این پوشه در حال حاضر شامل مثال‌های نرم‌افزاری است؛ تصاویر هویتی و گرافیکی MES در مسیر [Images/GitHub-Assets](../Images/GitHub-Assets/) مخزن اصلی نگهداری می‌شوند.
 
 The examples directory currently focuses on firmware projects. MES visual identity assets are maintained in the main repository at [Images/GitHub-Assets](../Images/GitHub-Assets/).
+
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین | Credits and Documentation
 
