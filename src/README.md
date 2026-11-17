@@ -1,5 +1,9 @@
 <div dir="rtl" align="right">
 
+<p align="center"><img src="../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # کد منبع کتابخانه ch5xx-hal
 
 این پوشه پیاده‌سازی اصلی HAL را شامل می‌شود. ماژول‌ها APIهای Rust برای Peripheralهای خانواده WCH CH5xx و جزئیات رجیستر، وقفه، DMA و زمان‌بندی را سازمان‌دهی می‌کنند.
@@ -19,6 +23,9 @@
 | [usb/](usb/README.md)، [usbhs/](usbhs/README.md) | کنترلرهای USB Full-Speed و High-Speed |
 | [internal/](internal/README.md) | اجزای داخلی پیاده‌سازی |
 این کد سطح پایین با رجیسترهای سخت‌افزاری سروکار دارد. پیش از تغییر، محدودیت‌های مدل CH5xx و تفاوت هسته‌های QingKe را بررسی کنید.
+
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین
 **معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
