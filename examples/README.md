@@ -432,3 +432,5 @@ The examples directory currently focuses on firmware projects. MES visual identi
 - GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
 [مشاهده سایر آموزش‌ها / Explore more tutorials](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+<p align="center"><img src="../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
