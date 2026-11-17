@@ -46,3 +46,5 @@ CH585 reference images and the device selection guide are stored in the reposito
 **Memar Electronic Sanat (MES)**  
 *Your partner in the design and development of reliable circuits.*  
 [Telegram](https://t.me/Memar_Electronic) · [Instagram](https://www.instagram.com/Memar.Electronic) · [GitHub](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+<p align="center"><img src="GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
