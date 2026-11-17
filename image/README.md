@@ -1,5 +1,9 @@
 <div dir="rtl" align="right">
 
+<p align="center"><img src="../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # تصاویر مرجع CH5xx
 
 این پوشه تصاویر مرجع استفاده‌شده در مستندات مخزن ch5xx-hal را نگهداری می‌کند.
@@ -11,6 +15,9 @@
 | [CH585.jpg](CH585.jpg) | تصویر/نمودار مرجع مرتبط با میکروکنترلر CH585 |
 | [SelectionGuide.jpg](SelectionGuide.jpg) | راهنمای تصویری انتخاب و مقایسه اولیه CH585 و CH584 |
 این تصاویر برای آشنایی اولیه هستند؛ برای طراحی سخت‌افزار، Pinout، انتخاب پکیج و حدود الکتریکی، دیتاشیت رسمی مدل دقیق را مرجع قرار دهید.
+
+
+<p align="center"><img src="../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین
 **معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
