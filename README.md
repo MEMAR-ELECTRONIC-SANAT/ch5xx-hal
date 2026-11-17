@@ -123,6 +123,9 @@ cargo build --release --bins --no-default-features --features time-driver-tmr0
 | [examples/ch592](examples/ch592/) | مثال‌های CH592 |
 | [examples/ch572](examples/ch572/) | مثال‌های CH572 |
 | [image](image/) | تصاویر مرجع CH585 و راهنمای انتخاب CH585/CH584 |
+| [Images](Images/) | دارایی‌های گرافیکی و SVGهای هویت بصری MES |
+| [src](src/) | کد منبع کتابخانه HAL و مستندات ماژول‌ها |
+| [examples](examples/README.md) | فهرست مثال‌ها و راهنمای اجرای پروژه‌های هر تراشه |
 
 ## منابع مرتبط
 
@@ -285,6 +288,9 @@ cargo build --release --bins --no-default-features --features time-driver-tmr0
 | [examples/ch592](examples/ch592/) | CH592 examples |
 | [examples/ch572](examples/ch572/) | CH572 examples |
 | [image](image/) | CH585 reference images and CH585/CH584 product selection guide |
+| [Images](Images/) | MES visual assets and brand identity SVGs |
+| [src](src/) | HAL source code and module documentation |
+| [examples](examples/README.md) | Example index and device-specific project guides |
 
 ## Related Resources
 
