@@ -1,5 +1,9 @@
 <div dir="rtl" align="right">
 
+<p align="center"><img src="../../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+<p align="center"><img src="../../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # یکپارچه‌سازی Embassy و Time Driverها
 
 این پوشه اتصال HAL به زمان‌بند Embassy و منبع زمان ناهمگام را پیاده‌سازی می‌کند.
@@ -13,6 +17,9 @@
 | `time_driver_systick.rs`، `time_driver_systick_ch573.rs` | Time Driver مبتنی بر SysTick |
 | `time_driver_tmr.rs` | Time Driver مبتنی بر تایمرهای سخت‌افزاری |
 
+
+
+<p align="center"><img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین
 **معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
