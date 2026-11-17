@@ -170,3 +170,5 @@ The paths below assume that the README is located in the repository root. Adjust
 - Telegram: [Memar Electronic](https://t.me/Memar_Electronic)
 - Instagram: [Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 - GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+<p align="center"><img src="MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
