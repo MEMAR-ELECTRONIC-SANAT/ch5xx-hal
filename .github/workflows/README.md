@@ -1,5 +1,9 @@
 <div dir="rtl" align="right">
 
+<p align="center"><img src="../../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+<p align="center"><img src="../../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # گردش‌کارهای GitHub Actions
 
 این پوشه تعریف گردش‌کارهای خودکار مخزن را شامل می‌شود.
@@ -10,6 +14,9 @@
 |---|---|
 | [ci.yml](ci.yml) | گردش‌کار یکپارچه‌سازی مداوم برای بررسی و ساخت پروژه |
 برای مشاهده Triggerها، ابزارها، Targetها و فرمان‌های دقیق، فایل YAML را بررسی کنید. نتیجه اجراها در زبانه Actions مخزن نمایش داده می‌شود.
+
+
+<p align="center"><img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین
 **معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
