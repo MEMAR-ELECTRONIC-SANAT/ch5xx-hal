@@ -1,5 +1,9 @@
 <div dir="rtl" align="right">
 
+<p align="center"><img src="../../../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header"></p>
+
+<p align="center"><img src="../../../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider"></p>
+
 # تنظیمات Cargo برای CH572
 
 این پوشه پیکربندی اختصاصی Cargo برای پروژه نمونه CH572 را نگهداری می‌کند. فایل تنظیمات Target، گزینه‌های کامپایل و Runner مورد استفاده برای پروگرام و اجرای Firmware را مشخص می‌کند.
@@ -10,6 +14,9 @@
 |---|---|
 | [config.toml](config.toml) | Target: `riscv32imac-unknown-none-elf`، تنظیمات ساخت و اجرای متناسب با CH572/CH570 (QingKe V3A) |
 برای تغییر Probe یا گزینه‌های Debug، ابتدا ساختار و مقادیر موجود در `config.toml` را بررسی کنید. تغییر Target باید با معماری هسته تراشه سازگار باشد.
+
+
+<p align="center"><img src="../../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer"></p>
 
 ## تهیه و تدوین
 **معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
